@@ -502,7 +502,7 @@ MIT
 
 ## 👨‍💻 Author
 
-Md izharul Ansari
+Md Izharul Ansari
 
 ---
 
